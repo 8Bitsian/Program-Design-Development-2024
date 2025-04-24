@@ -5,7 +5,7 @@
 ## Project Overview
 - Purpose: Reworking these exercises are meant to serve as practice for C++ and Java
 - Role: As the sole developer, I am responsible for designing and implementing both front-end and back-end functionalities, ensuring efficiency, accuracy, and usability.
-- 
+  
 ## Technologies Used
 - Programming Language: Python, C++, Java
 - IDE: PyCharm, CLion, IntelliJ Idea, Visual Studio
